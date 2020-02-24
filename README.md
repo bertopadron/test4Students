@@ -1,5 +1,5 @@
 # HLST608
-Here you can open the Jupyter notebooks that we will using in the course. If you want to run them, download the ipynb file into your computer and open it with Jypiter (you can download the package Anaconda).
+Here you can open the Jupyter notebooks that we will using in the course. If you want to run them, download the ipynb file in your computer and open it with Jypiter (you can download the package Anaconda).
 
 ## Some guides for Python
 Python is nowadays extremely popular and you can might many resources in internet including youtube. I made a very short introduction in the form of a Jupyter notebook ("Some basic operation with Python.ipynb").
